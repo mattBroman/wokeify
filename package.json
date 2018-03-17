@@ -1,0 +1,23 @@
+{
+  "name": "wokify",
+  "version": "1.0.0",
+  "description": "lazer eyes on photos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattBroman/wokeify.git"
+  },
+  "author": "Matthew Broman, Connor York",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattBroman/wokeify/issues"
+  },
+  "homepage": "https://github.com/mattBroman/wokeify#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
